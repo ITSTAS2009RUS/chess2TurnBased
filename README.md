@@ -4,3 +4,4 @@
 Написана на Kotlin, но есть крупица кофеварки.
 Собирается Gradle-ом в андроид студии.
 Пожалуйста не смейтесь.
+![maxresdefault (1)](https://user-images.githubusercontent.com/124933877/218314927-80a6ac2f-71a7-454a-ad25-4ad6a92b9315.jpg)
