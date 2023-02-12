@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">chess2</string>
+    <string name="txtCredits">Хотите поддержать разработичка? <a href="http://www.stackoverflow.com">Пожертвуйте средства</a></string>
+</resources>
